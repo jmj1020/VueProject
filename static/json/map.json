@@ -1,0 +1,122 @@
+{
+    "typeMap": [
+        {
+            "ename": "submenu0",
+            "cname": "submenu0"
+        },
+        {
+            "ename": "submenu1",
+            "cname": "submenu1"
+        },
+        {
+            "ename": "submenu2",
+            "cname": "submenu2"
+        },
+        {
+            "ename": "submenu3",
+            "cname": "submenu3"
+        },
+        {
+            "ename": "submenu4",
+            "cname": "submenu4"
+        },
+        {
+            "ename": "submenu5",
+            "cname": "submenu5"
+        },
+        {
+            "ename": "submenu6",
+            "cname": "submenu6"
+        },
+        {
+            "ename": "submenu7",
+            "cname": "submenu7"
+        }
+    ],
+    "factory": [
+        {
+            "id": 0,
+            "name": "建筑工地",
+            "sublevel": [
+                {
+                    "id": 0,
+                    "name": "北辰区",
+                    "sublevel": [
+                        {
+                            "id": 0,
+                            "name": "工农新村"
+                        },
+                        {
+                            "id": 1,
+                            "name": "星河时代"
+                        },
+                        {
+                            "id": 2,
+                            "name": "陈祥大厦"
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "name": "河西区",
+                    "sublevel": [
+                        {
+                            "id": 0,
+                            "name": "天津镇"
+                        },
+                        {
+                            "id": 1,
+                            "name": "北京大学"
+                        },
+                        {
+                            "id": 2,
+                            "name": "森林湾"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "河滩工地",
+            "sublevel": [
+                {
+                    "id": 0,
+                    "name": "北辰区1",
+                    "sublevel": [
+                        {
+                            "id": 0,
+                            "name": "工农新村"
+                        },
+                        {
+                            "id": 1,
+                            "name": "星河时代"
+                        },
+                        {
+                            "id": 2,
+                            "name": "陈祥大厦"
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "name": "河西区",
+                    "sublevel": [
+                        {
+                            "id": 0,
+                            "name": "天津镇"
+                        },
+                        {
+                            "id": 1,
+                            "name": "北京大学"
+                        },
+                        {
+                            "id": 2,
+                            "name": "森林湾"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

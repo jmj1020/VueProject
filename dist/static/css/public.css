@@ -1,0 +1,30 @@
+.vueContanier {
+  border: 1px solid #dddee1;
+  border-radius: 15px;
+}
+
+.title {
+  border-bottom: 1px solid #dddee1;
+  height: 50px;
+  line-height: 50px;
+  padding: 0px 10px;
+  background: #f8f8f9;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  overflow: hidden;
+}
+
+.title em,
+.title .tra {
+  font-style: normal;
+  font-size: 30px;
+  position: absolute;
+  left: 30px;
+  top: 27px;
+  color: #dddee1;
+}
+
+.title .tra {
+  top: 25px;
+  color: #f8f8f9;
+}
